@@ -18,11 +18,10 @@ h2 {
 }
 
 .myHeaders {
-    color: rgb(16, 102, 12);
+    color: rgb(12, 94, 142);
     font-family:'Courier New', Courier, monospace;
     text-align: left;
-    font-weight: lighter;
-    text-decoration: underline;
+    font-weight: bold;
     font-size: 25px;
     padding: 20px;
     margin-bottom: 0px;
@@ -95,6 +94,10 @@ h2 {
     line-height: 1.7;
 }
 
+#pAbout a {
+    color: rgb(16, 102, 12);
+}
+
 .smallList {
     color: rgb(16, 102, 12);
     font-family:'Courier New', Courier, monospace;
@@ -118,6 +121,6 @@ h2 {
     color: rgb(128, 89, 219);
 }
 
-.smallList a:visited {
-    color:black;
+#music a {
+    color: rgb(16, 102, 12);
 }
