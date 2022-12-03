@@ -191,3 +191,31 @@ img {
 #fullGarden {
     display: none;
 }
+
+.socialList {
+    list-style-type: none;
+}
+
+.socialList a {
+    color: rgb(16, 102, 12);
+}
+
+.socialList a:hover {
+    color: rgb(128, 89, 219)
+}
+
+.socialList li {
+    list-style-type: none;
+    display: inline-block;
+    float: none;
+    color: rgb(16, 102, 12);
+    padding: 10px;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    text-align: center;
+}
+
+.socials {
+    text-align: center;
+}
+
