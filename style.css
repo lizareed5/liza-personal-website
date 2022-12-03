@@ -157,3 +157,11 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+#gardenButton {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#fullGarden {
+    display: none;
+}
